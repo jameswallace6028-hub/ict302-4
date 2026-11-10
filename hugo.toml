@@ -1,4 +1,20 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'VOTE: Mobile Voting'
 theme = 'ananke'
+
+
+[[menu.main]]
+  name = "Download"
+  url = "/download/"
+  weight = 30
+
+[[menu.main]]
+  name = "Laws & Regulations"
+  url = "/lawsAndRegulations/"
+  weight = 30
+
+[[menu.main]]
+  name = "FAQ/Forum"
+  url = "/faq/"
+  weight = 30
