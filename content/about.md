@@ -25,5 +25,7 @@ We recognized a problem where voting numbers in younger generations is lower bec
 - [How It Works](#how-it-works)
 - [State Voting Laws & Eligibility](#state-voting-laws--eligibility)
 - [Security & Cryptography](#security--cryptography)
+- [About VOTE](/about/)
+- [State Voting Laws & Eligibility](/lawsAndRegulations/)
 - [Download VOTE](/download/)
-- [Frequently Asked Questions](#frequently-asked-questions)
+- [Frequently Asked Questions](#frequently-asked-questions)- [Frequently Asked Questions](/faq/)
