@@ -1,10 +1,17 @@
 +++
 draft = false
 title = 'State Laws And Regulations'
-
 [build]
   list = "never"
 +++
+Genreal Info:
+
+
+Kentucky:
+
+Ohio:
+
+West Virginia: 
 
 ## Navigation Menu
 
