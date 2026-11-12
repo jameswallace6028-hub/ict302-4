@@ -1,5 +1,4 @@
 +++
-date = '2026-11-10T11:00:08-05:00'
 draft = false
 title = 'State Laws And Regulations'
 
@@ -7,3 +6,9 @@ title = 'State Laws And Regulations'
   list = "never"
 +++
 
+## Navigation Menu
+
+- [About VOTE](/about/)
+- [State Voting Laws & Eligibility](/lawsAndRegulations/)
+- [Download VOTE](/download/)
+- [Frequently Asked Questions](/faq/)

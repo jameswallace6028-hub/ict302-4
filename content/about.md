@@ -1,6 +1,6 @@
 +++
-date = '2026-10-08T11:48:13-04:00'
 draft = true
+date = '2026-11-10T11:48:13-04:00'
 title = 'What is VOTE: Mobile Voting?'
 +++
 
@@ -21,11 +21,7 @@ We recognized a problem where voting numbers in younger generations is lower bec
 
 ## Navigation Menu
 
-- [About the App](#about-the-app)
-- [How It Works](#how-it-works)
-- [State Voting Laws & Eligibility](#state-voting-laws--eligibility)
-- [Security & Cryptography](#security--cryptography)
 - [About VOTE](/about/)
 - [State Voting Laws & Eligibility](/lawsAndRegulations/)
 - [Download VOTE](/download/)
-- [Frequently Asked Questions](#frequently-asked-questions)- [Frequently Asked Questions](/faq/)
+- [Frequently Asked Questions](/faq/)

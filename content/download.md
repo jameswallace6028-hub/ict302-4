@@ -1,6 +1,5 @@
 +++
 title = "Download VOTE: Mobile Voting"
-date = "2026-11-08T21:48:56-05:00"
 draft = false
 
 [build]
@@ -19,3 +18,10 @@ Download the official VOTE: Mobile Voting application exclusively from authorize
 * 🤖 **Android:** [Get it on Google Play](https://google.com)
 
 ---
+
+## Navigation Menu
+
+- [About VOTE](/about/)
+- [State Voting Laws & Eligibility](/lawsAndRegulations/)
+- [Download VOTE](/download/)
+- [Frequently Asked Questions](/faq/)
