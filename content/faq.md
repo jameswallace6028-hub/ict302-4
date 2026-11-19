@@ -23,19 +23,21 @@ title = 'Frequently Asked Questions'
 ---
 ---
 
-## Community Forum
+# Community Forum
 
 
 
-[Community Forum](/forum/)
-
----
----
+### [Community Forum](/forum/)
 
 #### Specific Topics
 
 - [Technical Issue: Can't register to vote on 'VOTE: Mobile Voting' app?](/forum/registerHelp/)
 - [Research help for upcoming election](/forum/polyHelp/)
+
+
+
+
+---
 
 ## Navigation Menu
 
