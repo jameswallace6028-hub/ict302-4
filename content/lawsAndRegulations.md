@@ -1,5 +1,4 @@
 +++
-date = '2026-11-10T11:00:08-05:00'
 draft = false
 title = 'State Laws And Regulations'
 [build]
@@ -21,3 +20,9 @@ Although technology is widely used in elections, most states do not allow voters
 
 ### [West Virginia](/resources/west-virginia/)
 
+## Navigation Menu
+
+- [About VOTE](/about/)
+- [State Voting Laws & Eligibility](/lawsAndRegulations/)
+- [Download VOTE](/download/)
+- [Frequently Asked Questions](/faq/)
