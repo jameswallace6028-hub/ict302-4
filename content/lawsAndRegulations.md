@@ -4,7 +4,6 @@ title = 'State Laws And Regulations'
 [build]
   list = "never"
 +++
-Genreal Info:
 ### General Information:
 
 In the United States, voting laws are established at both the federal and state levels. Federal laws protect voting rights and establish certain requirements for elections, while individual states are responsible for managing most election procedures. This means that voter registration deadlines, identification requirements, early voting, and absentee voting rules can vary depending on where someone lives.
