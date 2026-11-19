@@ -20,9 +20,4 @@ Although technology is widely used in elections, most states do not allow voters
 
 ### [West Virginia](/resources/west-virginia/)
 
-## Navigation Menu
 
-- [About VOTE](/about/)
-- [State Voting Laws & Eligibility](/lawsAndRegulations/)
-- [Download VOTE](/download/)
-- [Frequently Asked Questions](/faq/)

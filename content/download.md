@@ -15,17 +15,7 @@ Download the official VOTE: Mobile Voting application exclusively from authorize
 ### App Store Download Links
 
 * 📱 **iOS (iPhone & iPad):** [Download on the App Store](https://apps.apple.com/)
-
-<<<<<<< HEAD
 ---
-
-## Navigation Menu
-
-- [About VOTE](/about/)
-- [State Voting Laws & Eligibility](/lawsAndRegulations/)
-- [Download VOTE](/download/)
-- [Frequently Asked Questions](/faq/)
-=======
 * 🤖 **Android:** [Get it on Google Play](https://play.google.com/store/apps)
 
 ---
@@ -38,4 +28,4 @@ The image below is an early concept design of the VOTE: Mobile Voting applicatio
 ![VOTE Mobile Voting App Preview](/images/vote-app.png)
 
 *Note: This is a preliminary design and does not represent the final version of the application.*
->>>>>>> 8276183fc8373e926e817e7b888cbce876ecd675
+

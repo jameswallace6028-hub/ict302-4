@@ -4,6 +4,23 @@
     <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}">
       &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safe.HTML }} {{ now.Format "2006" }} {{ end }}
     </a>
+
+    <nav class="pv2 ph3" aria-label="Footer Navigation">
+      <ul class="list pl0 ma0 flex flex-wrap">
+        <li class="mr3 mb2 mb0-ns">
+          <a class="f5 fw4 hover-white white-70 no-underline" href="/about/">About VOTE</a>
+        </li>
+        <li class="mr3 mb2 mb0-ns">
+          <a class="f5 fw4 hover-white white-70 no-underline" href="/lawsAndRegulations/">State Voting Laws & Eligibility</a>
+        </li>
+        <li class="mr3 mb2 mb0-ns">
+          <a class="f5 fw4 hover-white white-70 no-underline" href="/download/">Download VOTE</a>
+        </li>
+        <li class="mb2 mb0-ns">
+          <a class="f5 fw4 hover-white white-70 no-underline" href="/faq/">Frequently Asked Questions</a>
+        </li>
+      </ul>
+    </nav>
     <div>{{ partials.IncludeCached "social/follow.html" . }}</div>
   </div>
 </footer>
