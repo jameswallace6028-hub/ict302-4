@@ -25,7 +25,7 @@
       {{ partials.Include "site-navigation.html" . }}
       <div class="tc-l pv2 ph3">
         <h1 class="f3 fw2 white mb0 lh-title">
-          {{ .Title | compare.Default .Site.Title }}
+          <img src="{{ "images/vote.png" | relURL }}" alt="{{ .Title }}" style="max-height: 150px; width: auto; display: inline-block;">
         </h1>
         {{ with .Params.description }}
           <h2 class="fw1 f5 white-80 mt2">
