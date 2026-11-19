@@ -18,10 +18,3 @@ We recognized a problem where voting numbers in younger generations is lower bec
 (*VOTE: Mobile Voting will never save biometric data and personal information, all information is erased after ballot casting*)
 
 ---
-
-## Navigation Menu
-
-- [About VOTE](/about/)
-- [State Voting Laws & Eligibility](/lawsAndRegulations/)
-- [Download VOTE](/download/)
-- [Frequently Asked Questions](/faq/)
