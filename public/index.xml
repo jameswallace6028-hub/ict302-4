@@ -10,13 +10,48 @@
 		
 		
 		
-			<lastBuildDate>Thu, 08 Oct 2026 11:48:13 -0400</lastBuildDate>
+			<lastBuildDate>Thu, 19 Nov 2026 09:54:22 -0500</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Technical Issue: Can&#39;t register to vote on &#39;VOTE: Mobile Voting&#39; app?</title>
+				<link>http://localhost:1313/forum/registerhelp/</link>
+				<pubDate>Thu, 19 Nov 2026 09:54:22 -0500</pubDate>
+				<guid>http://localhost:1313/forum/registerhelp/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Alex Rivera&lt;/strong&gt; | &lt;em&gt;Unverified User&lt;/em&gt; | Today, 11:15 AM&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Has anyone else had trouble with the &lt;strong&gt;&amp;ldquo;VOTE: Mobile Voting&amp;rdquo;&lt;/strong&gt; app? I downloaded it this morning to get registered and set up to cast my ballot from my phone, and every time I try to submit my registration info it just throws an error and won&amp;rsquo;t let me register.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;SamDaMod&lt;/strong&gt; | &lt;em&gt;Moderator&lt;/em&gt; | Today, 11:42 AM&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hey Alex! It&amp;rsquo;s actually not a bug with your phone. While VOTE  lets you cast your ballot directly from your device once you&amp;rsquo;re verified, the app itself doesn&amp;rsquo;t handle initial voter registration.&lt;/p&gt;&#xA;&lt;p&gt;To use the app, you&amp;rsquo;ll first need to register to vote through your state&amp;rsquo;s official requirements.&lt;/p&gt;&#xA;&lt;p&gt;Once your state processes your registration and adds you to the voter rolls, come back to the app and run the &lt;strong&gt;Voter Eligibility Verification&lt;/strong&gt; step. It will sync with your state record and unlock your digital ballot!&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>Research Help for Upcoming Election</title>
+				<link>http://localhost:1313/forum/polyhelp/</link>
+				<pubDate>Thu, 19 Nov 2026 09:53:48 -0500</pubDate>
+				<guid>http://localhost:1313/forum/polyhelp/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Jane Doe&lt;/strong&gt; | &lt;em&gt;Verified User&lt;/em&gt; | Today, 8:14 AM&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Does anyone have any knowledge of the political candiates running in the upcoming election?!? I don&amp;rsquo;t follow the news and was wondering what everyones opinions&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;PatThePolyScienceGuy&lt;/strong&gt; | &lt;em&gt;Political Expert&lt;/em&gt; | Today, 9:32 AM&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Welcome to the thread! While I always recommend people do their own research into politicians and the policies they want to pass, here are a few that I would do some research into:&lt;/p&gt;&#xA;&lt;p&gt;Democratic Party:&#xA;Billy Joel&#xA;John Cena&lt;/p&gt;&#xA;&lt;p&gt;Republican Party:&#xA;Ella Langley&#xA;Morgan Wallen&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>Kentucky Voting Resources</title>
+				<link>http://localhost:1313/resources/kentucky/</link>
+				<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/resources/kentucky/</guid>
+				<description>&lt;h2 id=&#34;voting-in-kentucky&#34;&gt;Voting in Kentucky&lt;/h2&gt;&#xA;&lt;p&gt;Kentucky residents can vote in person on Election Day, vote early, or request an absentee ballot if eligible. Voters must be registered and provide an accepted form of identification. College-issued photo IDs are accepted for in-person voting.&lt;/p&gt;&#xA;&lt;h2 id=&#34;college-students&#34;&gt;College Students&lt;/h2&gt;&#xA;&lt;p&gt;Kentucky allows students attending college outside their home county or state to request absentee ballots. However, this process can be inconvenient for students balancing classes, work, and other responsibilities.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ohio Voting Resources</title>
+				<link>http://localhost:1313/resources/ohio/</link>
+				<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/resources/ohio/</guid>
+				<description>&lt;h2 id=&#34;voting-in-ohio&#34;&gt;Voting in Ohio&lt;/h2&gt;&#xA;&lt;p&gt;Ohio residents can vote in person on Election Day, vote early, or request an absentee ballot by mail. Any registered Ohio voter can request an absentee ballot without needing a specific reason.&lt;/p&gt;&#xA;&lt;p&gt;Ohio requires an accepted form of photo identification for in-person voting, such as an Ohio driver&amp;rsquo;s license, state ID, U.S. passport, or military ID. College student IDs are not currently accepted for in-person voting.&lt;/p&gt;&#xA;&lt;h2 id=&#34;college-students&#34;&gt;College Students&lt;/h2&gt;&#xA;&lt;p&gt;College students attending school outside their home state may face challenges when trying to vote. Ohio students attending college in another state can request an absentee ballot to vote from their registered Ohio address.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>West Virginia Voting Resources</title>
+				<link>http://localhost:1313/resources/west-virginia/</link>
+				<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/resources/west-virginia/</guid>
+				<description>&lt;h2 id=&#34;voting-in-west-virginia&#34;&gt;Voting in West Virginia&lt;/h2&gt;&#xA;&lt;p&gt;West Virginia residents can vote in person on Election Day, vote early, or request an absentee ballot if eligible. The state also allows certain voters, including eligible military personnel, overseas voters, and individuals with physical disabilities, to submit ballots electronically.&lt;/p&gt;&#xA;&lt;h2 id=&#34;college-students&#34;&gt;College Students&lt;/h2&gt;&#xA;&lt;p&gt;West Virginia allows college students attending school outside their home county to request absentee ballots if they cannot vote in person during the available voting period.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>What is VOTE: Mobile Voting?</title>
 				<link>http://localhost:1313/about/</link>
-				<pubDate>Thu, 08 Oct 2026 11:48:13 -0400</pubDate>
+				<pubDate>Tue, 10 Nov 2026 11:48:13 -0400</pubDate>
 				<guid>http://localhost:1313/about/</guid>
 				<description>&lt;h2 id=&#34;about-us&#34;&gt;About Us&lt;/h2&gt;&#xA;&lt;p&gt;We recognized a problem where voting numbers in younger generations is lower because of voting limitions and accessibility problems. &lt;strong&gt;VOTE&lt;/strong&gt; bridges the gap between election infrastructure and modern accessibility, letting verified voters cast their ballots safely without taking off work or standing in hours-long queues.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-it-works&#34;&gt;How It Works&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Identity Verification:&lt;/strong&gt; Upload a state-issued ID and perform a one-time biometric liveness check.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Interactive Ballot:&lt;/strong&gt; Select your candidates or ballot measures with real-time error prevention.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Encrypted Submission:&lt;/strong&gt; Your vote is encrypted &lt;em&gt;on your device&lt;/em&gt; before transmission, stripping all personal metadata.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Receipt Generation:&lt;/strong&gt; Receive an anonymous receipt code to confirm your ballot was counted.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;(&lt;em&gt;VOTE: Mobile Voting will never save biometric data and personal information, all information is erased after ballot casting&lt;/em&gt;)&lt;/p&gt;</description>
 			</item>

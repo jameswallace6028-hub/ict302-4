@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Resources on VOTE: Mobile Voting</title>
+		<link>http://localhost:1313/resources/</link>
+		<description>Recent content in Resources on VOTE: Mobile Voting</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/resources/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kentucky Voting Resources</title>
+				<link>http://localhost:1313/resources/kentucky/</link>
+				<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/resources/kentucky/</guid>
+				<description>&lt;h2 id=&#34;voting-in-kentucky&#34;&gt;Voting in Kentucky&lt;/h2&gt;&#xA;&lt;p&gt;Kentucky residents can vote in person on Election Day, vote early, or request an absentee ballot if eligible. Voters must be registered and provide an accepted form of identification. College-issued photo IDs are accepted for in-person voting.&lt;/p&gt;&#xA;&lt;h2 id=&#34;college-students&#34;&gt;College Students&lt;/h2&gt;&#xA;&lt;p&gt;Kentucky allows students attending college outside their home county or state to request absentee ballots. However, this process can be inconvenient for students balancing classes, work, and other responsibilities.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ohio Voting Resources</title>
+				<link>http://localhost:1313/resources/ohio/</link>
+				<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/resources/ohio/</guid>
+				<description>&lt;h2 id=&#34;voting-in-ohio&#34;&gt;Voting in Ohio&lt;/h2&gt;&#xA;&lt;p&gt;Ohio residents can vote in person on Election Day, vote early, or request an absentee ballot by mail. Any registered Ohio voter can request an absentee ballot without needing a specific reason.&lt;/p&gt;&#xA;&lt;p&gt;Ohio requires an accepted form of photo identification for in-person voting, such as an Ohio driver&amp;rsquo;s license, state ID, U.S. passport, or military ID. College student IDs are not currently accepted for in-person voting.&lt;/p&gt;&#xA;&lt;h2 id=&#34;college-students&#34;&gt;College Students&lt;/h2&gt;&#xA;&lt;p&gt;College students attending school outside their home state may face challenges when trying to vote. Ohio students attending college in another state can request an absentee ballot to vote from their registered Ohio address.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>West Virginia Voting Resources</title>
+				<link>http://localhost:1313/resources/west-virginia/</link>
+				<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/resources/west-virginia/</guid>
+				<description>&lt;h2 id=&#34;voting-in-west-virginia&#34;&gt;Voting in West Virginia&lt;/h2&gt;&#xA;&lt;p&gt;West Virginia residents can vote in person on Election Day, vote early, or request an absentee ballot if eligible. The state also allows certain voters, including eligible military personnel, overseas voters, and individuals with physical disabilities, to submit ballots electronically.&lt;/p&gt;&#xA;&lt;h2 id=&#34;college-students&#34;&gt;College Students&lt;/h2&gt;&#xA;&lt;p&gt;West Virginia allows college students attending school outside their home county to request absentee ballots if they cannot vote in person during the available voting period.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
