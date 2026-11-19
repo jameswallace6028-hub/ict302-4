@@ -3,7 +3,7 @@ date = '2026-11-19T09:54:22-05:00'
 author = 'Alex Rivera'
 draft = false
 title = "Technical Issue: Can't register to vote on 'VOTE: Mobile Voting' app?"
-type = "forum"
+type = "forums"
 
 +++
 
