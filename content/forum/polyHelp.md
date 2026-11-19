@@ -1,10 +1,8 @@
 +++
 date = '2026-11-19T09:53:48-05:00'
-draft = true
+draft = false
 title = 'Research Help for Upcoming Election'
-
-[build]
-  list = "never"
+type = "forums"
 +++
 
 
