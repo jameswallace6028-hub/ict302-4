@@ -24,7 +24,6 @@ Once verified, students could securely cast their West Virginia ballot through t
 
 Since West Virginia already permits electronic ballot return for certain eligible voters, our proposal would explore expanding this technology to college students.
 
-This expansion would require changes to election laws, approval from election officials, and additional security testing.
 
 ## Official West Virginia Voting Resources
 
